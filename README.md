@@ -1,14 +1,13 @@
 # 👋 Hey, I'm Simon (aka **realstmh**)  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=600&lines=Hey%2C+I'm+Simon+(aka+realstmh)!;Future+Developer;Loves+Calisthenics+%26+Vibecoding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=600&lines=Hey%2C+I'm+Simon+(aka+realstmh)!;Future+Developer;)](https://git.io/typing-svg)
 
 ---
 
 ### 🚀 About Me  
-- 🧑‍💻 Student from Switzerland  
+- 🧑‍💻 High School Student from Switzerland  
 - 📚 Learning **Python, JavaScript, HTML & CSS**  
 - 🎯 Future Developer / Cybersecurity Enthusiast  
-- 💪 Calisthenics | 🎵 Vibecoding | 👫 Hanging out with friends  
 
 ---
 
