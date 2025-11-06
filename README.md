@@ -22,7 +22,6 @@
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realstmh&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realstmh&layout=compact&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=realstmh&theme=radical&hide_border=true)](https://git.io/streak-stats)  
 
 ---
 
