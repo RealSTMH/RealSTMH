@@ -11,7 +11,7 @@
 <h2 align="center"> Portfolio</h2>
 <p align="center">
   Want to learn more about me?
-  <a href="https://your-portfolio-url.com"><b>Visit my portfolio</b></a>.
+  <a href="RealSTMH.github.io"><b>Visit my portfolio</b></a>.
 </p>
 
 ---
@@ -25,12 +25,11 @@
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realstmh&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realstmh&layout=compact&theme=radical)  
+
 
 ---
 
 ### 📫 Connect with Me  
 📧 Email: *RealSTMH@proton.me*   
-🌍 [Portfolio](https://portfolio0link.com)  
+🌍 [Portfolio](RealSTMH.github.io)  
 
