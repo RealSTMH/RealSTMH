@@ -1,35 +1,77 @@
-# **RealSTMH** | Cybersecurity Enthusiast
+```console
+realstmh@github:~$ whoami
+realstmh Based in Switzerland
+i mess around with linux, write small tools, break things, fix them, then break them again.
+realstmh@github:~$ cat interests.txt
+[+] Cybersecurity
+[+] Linux
+[+] Python 
+[+] Web Development
+[+] Hardware & Software Builder
+[+] Figuring out how stuff works
+```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70000&width=435&lines=Hi+There;Im+RealSTMH;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+## `./selected-work`
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🚀 About Me  
-- 🧑‍💻 Studying in Switzerland.
-- 📚 Learning **Python, JavaScript, HTML & CSS**  
-- 🎯 Cybersecurity Enthusiast  
-<h2 align="center"> Portfolio</h2>
+### [STMHflip](https://github.com/RealSTMH/STMHflip)
+
+A growing collection of Flipper Zero scripts and tools.
+
+`Flipper Zero` `Tools`
+
+[View repository →](https://github.com/RealSTMH/STMHflip)
+
+</td>
+<td width="50%" valign="top">
+
+### [RealSTMH Portfolio](https://github.com/RealSTMH/RealSTMH.github.io)
+
+Source code for my personal website and project portfolio.
+
+`HTML` `CSS` `JavaScript`
+
+[View repository →](https://github.com/RealSTMH/RealSTMH.github.io) · [Open website →](https://realstmh.ch)
+
+</td>
+</tr>
+</table>
+
+
+## `./current-session`
+
+```yaml
+learning:
+  - Python
+  - Linux
+  - C++
+
+building:
+  - Flipper Zero tools
+  - Hardware & Software 
+```
+
+## `./toolbox`
+
+`Linux` · `HTML` · `CSS` · `JavaScript` · `Python` · `C++` · `GitHub`
+
+## `./activity`
+
 <p align="center">
-  Want to learn more about me?
-  <a href="RealSTMH.github.io"><b>Visit my portfolio</b></a>.
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RealSTMH&bg_color=0d1117&color=ff3b3b&line=ff2020&point=ffffff&area=true&hide_border=true"
+    alt="RealSTMH GitHub activity graph"
+    width="100%"
+  >
 </p>
 
----
+## `./contact`
 
-### 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
----
-
-### 📊 GitHub Stats  
-
-
----
-
-### 📫 Connect with Me  
-📧 Email: *RealSTMH@proton.me*   
-🌍 [Portfolio](RealSTMH.github.io)  
-
+```text
+Web   https://realstmh.ch
+Mail  RealSTMH@proton.me
+Git   https://github.com/RealSTMH
+```
