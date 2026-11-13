@@ -1,7 +1,7 @@
 ```console
 realstmh@github:~$ whoami
 realstmh Based in Switzerland
-i mess around with linux, write small tools, break things, fix them, then break them again.
+i mess around with linux, write small tools, fix things.
 realstmh@github:~$ cat interests.txt
 [+] Cybersecurity
 [+] Linux
