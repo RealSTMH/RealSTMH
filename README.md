@@ -1,14 +1,12 @@
 ```console
-realstmh@github:~$ whoami
-realstmh Based in Switzerland
-i mess around with linux, write small tools, fix things.
+realstmh@github:~$ cat realstmh.txt
+I live in Switzerland, My Hobbies are Skating, rock climbing and Building things
+I don't like Microsoft, I like Linux more than Windows, I use Arch Linux
 realstmh@github:~$ cat interests.txt
-[+] Cybersecurity
-[+] Linux
-[+] Python 
-[+] Web Development
-[+] Hardware & Software Builder
-[+] Figuring out how stuff works
+- Cybersecurit
+- Python 
+- Web Development
+- Hardware & Software Builder
 ```
 
 ## `./selected-work`
@@ -39,24 +37,6 @@ Source code for my personal website and project portfolio.
 </td>
 </tr>
 </table>
-
-
-## `./current-session`
-
-```yaml
-learning:
-  - Python
-  - Linux
-  - C++
-
-building:
-  - Flipper Zero tools
-  - Hardware & Software 
-```
-
-## `./toolbox`
-
-`Linux` · `HTML` · `CSS` · `JavaScript` · `Python` · `C++` · `GitHub`
 
 ## `./activity`
 
